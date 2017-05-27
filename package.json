@@ -1,0 +1,19 @@
+{
+    "name": "zackandrewsphotos",
+    "version": "1.0.0",
+    "description": "Photography by Zack Andrews",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://onorok@github.com/onorok/zackandrewsphotos.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/onorok/zackandrewsphotos/issues"
+    },
+    "homepage": "http://www.zackandrews.com"
+}
