@@ -1,0 +1,118 @@
+/* General */
+
+body {
+    margin:0px;
+    padding:50px;
+    font-family:Century Gothic, Verdana, Sans Serif;
+    font-size:14px;
+    color:#595959;
+    background-color:#efefef;
+    }
+
+a {
+    color:#476fab;
+    text-decoration:none;
+    }
+
+a:hover {
+    color:#517dc7;
+    text-decoration:underline;
+    }
+    
+#body_small {
+    margin:0 auto;
+    margin-bottom:300px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    width: 1024px;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.2);
+    padding:50px 0;
+    }
+    
+#content {
+    width:900px;
+    margin:0 auto;
+    }
+    
+#main_table {
+    width:900px;
+    margin:0px;
+    border-top:1px solid #efefef;
+    }
+    
+.subtitle {
+    width:150px;
+    border-right:1px solid #efefef;
+    color:#AAA; 
+    font-weight:bold;
+    font-size:18px;
+    text-transform:uppercase; 
+    padding-left:15px;
+    vertical-align:top;
+    padding-top:10px;
+    }
+    
+.sub_text {
+    position:relative;
+    }
+    
+li {
+    list-style:none;
+    text-align:justify;
+    }
+    
+.contents ul {
+    background:white;
+    padding:10px;
+    }
+    
+.contents ul:hover {
+    background:#fafafa;
+    }
+    
+.row_border {
+    border-bottom:1px solid #efefef;
+    }
+
+/* Skills */
+
+.skills_td {
+    width:33%;
+    }
+
+/* My Name */
+
+#myname {
+    margin-left:15px;
+    font-size:34px;
+    font-weight:bold;
+    text-transform:uppercase;
+    margin-top:15px;
+    margin-bottom:25px;
+    }
+    
+#firstlet {
+    font-size:42px;
+    }
+    
+#firstname {
+    color:#aaa;
+    }
+    
+#lastname {
+    color:#666;
+    }
+
+/* Experience */
+
+.tableception { width:100%; border-collapse:collapse; }
+.pos_title { text-transform:uppercase; font-weight:bold; color:#555; border-bottom:1px solid #ddd; margin:0px; width:200px; }
+.pos_date { text-align:right; border-bottom:1px solid #ddd; margin:0px; }
+.pos_company { padding:10px; padding-right:25px; text-align:center; border-bottom:1px solid #ddd; }
+.pos_description { border-bottom:1px solid #ddd; padding-top:3px; padding-bottom:5px; }
+.pos_border { width:100%; border-bottom:1px solid #eee; margin:40px; }
+
+.skills_title { width:110px; vertical-align:top; font-weight:bold; padding:5px; }
+.skills { vertical-align:top; padding:5px; }
+
+.pos_sup_title { text-transform:uppercase; font-weight:bold; color:#555; border-top:medium double #ddd; }
