@@ -1,0 +1,13 @@
+{
+    "name": "zackandrewsphotos",
+    "description": "Photography by Zack Andrews",
+    "engines": {
+        "node": "0.10.X"
+    },
+    "dependencies": {
+        "express": "*",
+        "serve-favicon": "2.0.x",
+        "request": "2.34.x"
+    },
+    "homepage": "http://www.zackandrews.com"
+}
