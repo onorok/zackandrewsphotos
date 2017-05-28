@@ -13,7 +13,8 @@
         "gulp": "*",
         "gulp-less": "*",
         "gulp-sourcemaps": "*",
-        "gulp-clean-css": "*"
+        "gulp-clean-css": "*",
+        "path": "*"
     },
     "homepage": "http://www.zackandrews.com"
 }
